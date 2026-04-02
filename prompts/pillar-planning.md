@@ -13,7 +13,7 @@ This is structured authority architecture.
 Before recommending ANY topic, you MUST:
 
 1. Review existing blog categories from:
-   https://raw.githubusercontent.com/mehul0810/mg-content/refs/heads/main/blog-categories.md
+   https://raw.githubusercontent.com/mehul0810/mg-content/refs/heads/main/prompts/blog-categories.md
 
 2. Review existing blog posts from:
    - https://mehulgohil.com/sitemap_index.xml

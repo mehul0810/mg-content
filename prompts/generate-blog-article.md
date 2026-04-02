@@ -22,7 +22,7 @@ Specializing in Architecture, Performance, Reliability, and Risk Audits.
 Before writing the article:
 
 1. Fetch and review the official category structure:
-https://raw.githubusercontent.com/mehul0810/mg-content/refs/heads/main/blog-categories.md
+https://raw.githubusercontent.com/mehul0810/mg-content/refs/heads/main/prompts/blog-categories.md
 
 2. Determine:
    - Primary Category (required)
